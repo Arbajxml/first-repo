@@ -1,1 +1,3 @@
-This is my first commit so i picked up a folder in my pc and commited it :>
+Welcome to my first GitHub repository! 🎉
+
+This repo contains a collection of random C++ programs and snippets. It's a personal archive where I’m experimenting, learning, and tracking my progress with C++.
